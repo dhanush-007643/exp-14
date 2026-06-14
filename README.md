@@ -2,3 +2,5 @@
 
 This change was made in feature1 branch.
 
+This line was added from branch1.
+
